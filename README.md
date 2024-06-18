@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AttorneyLaw](https://github.com/chamakkarmakar/legal-service-provider-MERN)
 
-- 👨‍💻 All of my projects are available at [https://chamakkarmakar.netlify.app/](https://chamakkarmakar.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://chamakkarmakar.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React.JS, Node.JS, Express.JS**
 
