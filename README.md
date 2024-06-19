@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chamak Karmakar</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
+<p align="center">Hi Sir/Madam, welcome to my repository. First of all, thanks for giving me opportunity to introduce myself, this repository is all about myself. I’m enthusiastic and self-motivated frontend developer with knack for turning design concepts into functional websites. Excited to grow and develop my skills further while delivering high-quality user interfaces.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamakkarmakar&label=Profile%20views&color=0e75b6&style=flat" alt="chamakkarmakar" /> </p>
 
