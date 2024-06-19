@@ -20,10 +20,10 @@
 - ⚡ Fun fact **I'm fat**
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chamak-karmakar-911522176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamak-karmakar-911522176/" height="30" width="40" /></a> <br />
-<a href="https://fb.com/chamak.karmakar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamak.karmakar/" height="30" width="40" /></a> <br />
-<a href="https://instagram.com/surprisingdotck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surprisingdotck" height="30" width="40" /></a> <br />
+<p align="justify-between">
+<a href="https://linkedin.com/in/chamak-karmakar-911522176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamak-karmakar-911522176/" height="30" width="40" /></a> 
+<a href="https://fb.com/chamak.karmakar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamak.karmakar/" height="30" width="40" /></a> 
+<a href="https://instagram.com/surprisingdotck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surprisingdotck" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
